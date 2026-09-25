@@ -1,6 +1,6 @@
 # spam-classifier
 
-Fine-tuning workspace for the MiniLM encoder used as a borderline-case second opinion in `spam-detector/`.
+Fine-tuning workspace for the MiniLM encoder used as a borderline-case second opinion in [spam-detector](https://github.com/meksof/spam-detector).
 
 ---
 
